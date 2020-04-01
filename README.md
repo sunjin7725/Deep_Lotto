@@ -9,3 +9,6 @@
 따라서 본 프로젝트로 돈을 벌 수는 없을 것입니다.
 
 단지 흥미를 위해서만 따라 하십시오.
+
+### result of training
+![screensh](./deep_lotto_epoch100.png)
